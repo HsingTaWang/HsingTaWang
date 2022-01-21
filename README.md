@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HsingTaWang
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning c/Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C/Python
+- 💞️ I’m looking to collaborate on Network Security and Data Analysis
 - 📫 How to reach me  xd20000112@163.com
 
 <!---
